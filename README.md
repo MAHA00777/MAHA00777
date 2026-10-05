@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:C9A24B&height=220&section=header&text=Maha%20Rajeshwaran&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20IT%20Enthusiast%20%7C%20Enterprise%20Systems&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:C9A24B&height=220&section=header&text=Maha%20Rajeswaran&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%7C%20IT%20Enthusiast%20%7C%20Enterprise%20Systems&descAlignY=55&descSize=17" width="100%"/>
 
 <br>
 
